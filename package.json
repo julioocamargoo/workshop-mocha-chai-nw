@@ -1,0 +1,24 @@
+{
+  "name": "workshop-mocha-chai-nw",
+  "version": "1.0.0",
+  "description": "Projeto para apresentar o workshop de testes - Grupo New Way",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioocamargoo/workshop-mocha-chai-nw.git"
+  },
+  "author": "Julio Camargo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julioocamargoo/workshop-mocha-chai-nw/issues"
+  },
+  "homepage": "https://github.com/julioocamargoo/workshop-mocha-chai-nw#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
